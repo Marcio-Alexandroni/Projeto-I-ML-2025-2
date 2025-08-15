@@ -1,8 +1,8 @@
 site_name: Template de Entrega
-site_author: Sandmann, H.
-site_url: https://hsandmann.github.io/documentation.template
-repo_url: https://github.com/hsandmann/documentation.template
-repo_name: github/documentation.template
+site_author: Márcio Alexandroni da Silva Filho
+site_url: https://github.com/Marcio-Alexandroni/Projeto-I-ML-2025-2
+repo_url: https://Marcio-Alexandroni.github.io/Projeto-I-ML-2025-2/
+repo_name: Projeto I ML 2025-2
 
 theme:
   name: material
