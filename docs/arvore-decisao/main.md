@@ -1,6 +1,6 @@
 ## Exploração de Dados
 
-Para o projeto foi utilizado o dataset [Fraud in Financial System](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset){:target='blank'}
+Para o projeto foi utilizado o dataset [Heart Disease Dataset](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset){:target='blank'}
 
 # Sobre o Dataset
 
@@ -23,6 +23,8 @@ Subtitulos do Dataset:
 12. número de vasos principais (0–3) corados por fluoroscopia
 13. thal: 0 = normal; 1 = defeito fixo; 2 = defeito reversível
 14. Os nomes e os números de seguridade social (SSN) dos pacientes foram recentemente removidos do banco de dados.
+
+
 
 
 ## Pré-Processamento
